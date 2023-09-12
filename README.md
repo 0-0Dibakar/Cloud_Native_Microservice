@@ -201,12 +201,3 @@ Result:
 ```
 {"user_id":"abcde","items":[{"product_id":"OLJCESPC7Z","quantity":3}]}
 ```
-
-
-# Contributing Code
-
-PRs are welcome!  
-
-This project follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md) .
-
-<br>
